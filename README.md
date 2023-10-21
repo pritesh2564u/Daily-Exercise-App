@@ -1,4 +1,4 @@
-# 🧘‍♂ Daily Exercise App
+# Daily Exercise App
 A daily exercise app is a mobile application designed to help users establish and maintain a regular exercise routine. exercise apps often provide users with pre-designed workout plans tailored to their fitness goals, whether it's weight loss, muscle building, or general fitness.
 
 ## ✨ Features
